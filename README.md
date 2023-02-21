@@ -1,4 +1,4 @@
-<h1>Hi, I'm Olivia, working in Information Technology and Cybersecurity! <a href="https://www.linkedin.com/in/olivia-hansen-a94a37264/"></a>
+<h1>Hi, I'm Olivia, an <a href="https://www.linkedin.com/in/olivia-hansen-a94a37264/"> IT Professional!</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
