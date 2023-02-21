@@ -1,4 +1,4 @@
-<h1>Hi, I'm Olivia, an <a href="https://linkedin.com/in/Olivia">IT Professional</a>☺</h1>
+<h1>Hi, I'm Olivia, working in Information Technology and Cybersecurity! <a href="https://www.linkedin.com/in/olivia-hansen-a94a37264/"></a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -15,5 +15,5 @@
 [<img align="left" alt="Olivia| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Olivia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/Olivia
-[linkedin]: https://linkedin.com/in/Olivia
+
+[linkedin]: https://www.linkedin.com/in/olivia-hansen-a94a37264/
