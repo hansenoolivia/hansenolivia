@@ -1,4 +1,4 @@
-<h1>Help Desk Support / Content Creator and<a href="https://www.linkedin.com/in/olivia-hansen-a94a37264/"> Future Cyber Security Analyst!</a>
+<h1>Help Desk Support and Content Creator!<a href="https://www.linkedin.com/in/olivia-hansen-a94a37264/">
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
