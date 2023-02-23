@@ -1,8 +1,8 @@
-<h1>Help Desk Support and Content Creator!<a href="https://www.linkedin.com/in/olivia-hansen-a94a37264/">
+<h1>Help Desk Support and Content Creator!<h1><a href="https://www.linkedin.com/in/olivia-hansen-a94a37264/">
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 <p>
- </p>
+</p>
   
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/hansenoolivia/osticket-prereqs)
